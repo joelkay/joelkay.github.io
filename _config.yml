@@ -43,10 +43,10 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: University of Kent
+      location: Kent, United Kingdom
       degree: Bachelor
-      major: Software Engineering
+      major: Computer Science
       started: 2005
       duration: (2005 - 2009)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
@@ -66,10 +66,10 @@ author:
       percentage: 90%
     - skill3:
       name: C#
-      percentage: 40%
+      percentage: 50%
     - skill4:
-      name: Python
-      percentage: 30%
-    - skill5:
       name: PHP
+      percentage: 40%
+    - skill5:
+      name: Python
       percentage: 40%
