@@ -33,23 +33,23 @@ author:
       title: Application Support
       started: 2016
       duration: (2016 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: As an application support analyst, I have moved back into the field of computing and honed my skills to a point where I can adequately help customers with any issues that they face with our software. I have also had the chance to hone my development skills and contributed to a few side projects.
     - work2:
       company: Edgar&Co
       location: London, United Kingdom
       title: Consultant
-      started: 2012
-      duration: (2012 - present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2014
+      duration: (2014 - present)
+      description: During my time at school I was able to work on some IT based projects. Some of these included, Invoice handling(excel) and an Automatic Schedule/Organiser also based on excel. I assessed the issues at hand, where there was a lot of time wasted manually entering values into excel spreadsheets. I suggested an automated system based on heavy macro usage which was taken well and has drastically reduced the amount of time it takes to have their spreadsheets generated with the relevant data.
   educationHistory:
     - education1:
       organization: University of Kent
       location: Kent, United Kingdom
       degree: Bachelor
       major: Computer Science
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2013
+      duration: (2013 - 2015)
+      description: Studied Modules Include: Web Development: I am able to express my creativity and bring my own ideas to life. My recent project involved using an MVC (Model Control View) framework to create a blogging website. 
   languages:
     - language1:
       name: English
