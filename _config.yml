@@ -17,7 +17,7 @@ author:
   name: Joel Kalete
   title: Aspiring Developer
   address: Kent, United Kingdom
-  email: joeldkay01#gmail.com
+  email: joeldkay01@gmail.com
   link: http://joelkalete.com
   weibo:
   github: joelkay
@@ -72,14 +72,14 @@ author:
       name: HTML
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: MySQL
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: C#
+      percentage: 40%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: Python
+      percentage: 30%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: PHP
+      percentage: 40%
