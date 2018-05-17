@@ -28,19 +28,17 @@ author:
 #  stackoverflow: 4582127
   Projects:
     - project1:
-      company: Hipchat Bot
-      location: Kent, United Kingdom
-      title: Application Support
-      started: 2016
-      duration: (2016 - Present)
-      description: As an application support analyst, I have moved back into the field of computing and honed my skills to a point where I can adequately help customers with any issues that they face with our software. I have also had the chance to hone my development skills and contributed to a few side projects.
+      company: Python
+      title: Hipchat Bot
+      started: 2015
+      duration: (2015 - 2016)
+      description: Modified a bot using python to enable remote management of a vps using hipchat!
     - project2:
       company: BYOND
-      location: London, United Kingdom
-      title: Consultant
-      started: 2014
-      duration: (2014 - present)
-      description: During my time at school I was able to work on some IT based projects. Some of these included, Invoice handling(excel) and an Automatic Schedule/Organiser also based on excel. I assessed the issues at hand, where there was a lot of time wasted manually entering values into excel spreadsheets. I suggested an automated system based on heavy macro usage which was taken well and has drastically reduced the amount of time it takes to have their spreadsheets generated with the relevant data.
+      title: BYOND
+      started: 2011
+      duration: (2011 - 2013)
+      description: Made my first online game.
   educationHistory:
     - education1:
       organization: University of Kent
