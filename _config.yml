@@ -26,16 +26,16 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
-  workHistory:
-    - work1:
-      company: Publisure
+  Projects:
+    - project1:
+      company: Hipchat Bot
       location: Kent, United Kingdom
       title: Application Support
       started: 2016
       duration: (2016 - Present)
       description: As an application support analyst, I have moved back into the field of computing and honed my skills to a point where I can adequately help customers with any issues that they face with our software. I have also had the chance to hone my development skills and contributed to a few side projects.
-    - work2:
-      company: Edgar&Co
+    - project2:
+      company: BYOND
       location: London, United Kingdom
       title: Consultant
       started: 2014
