@@ -9,8 +9,22 @@ google_analytics:
 
 # Build settings
 markdown: kramdown
-
 exclude: [vendor]
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Every accomplishment starts with the decision to try."
+  - text: "Imagination is more important than knowledge."
 
 # Author settings
 author:
@@ -27,6 +41,12 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   Projects:
+    - project1:
+      company: Python
+      title: Hipchat Bot
+      started: 2016
+      duration: (2016)
+      description: Created an automatic forecasting extension!
     - project1:
       company: Python
       title: Hipchat Bot
